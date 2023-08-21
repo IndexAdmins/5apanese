@@ -1,0 +1,55 @@
+
+    ██████╗  ██████╗     ██╗██████╗ ██████╗  ██████╗  ██████╗ ██╗  ██╗██╗  ██╗   ██╗███╗   ██╗
+   ██╔════╝ ██╔════╝    ██╔╝██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗██║ ██╔╝██║  ╚██╗ ██╔╝████╗  ██║
+   ██║  ███╗██║  ███╗  ██╔╝ ██████╔╝██████╔╝██║   ██║██║   ██║█████╔╝ ██║   ╚████╔╝ ██╔██╗ ██║  
+   ██║   ██║██║   ██║ ██╔╝  ██╔══██╗██╔══██╗██║   ██║██║   ██║██╔═██╗ ██║    ╚██╔╝  ██║╚██╗██║
+██╗╚██████╔╝╚██████╔╝██╔╝   ██████╔╝██║  ██║╚██████╔╝╚██████╔╝██║  ██╗███████╗██║   ██║ ╚████║
+╚═╝ ╚═════╝  ╚═════╝ ╚═╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝  ╚═══╝
+                                                                                                                                                      
+@ HOW TO SETUP THE DISCORD BOT?
+
+1 - invite the bot to the server
+2 - run !setup in any chat ( make sure the bot has perms to create roles ) 
+3 - once you ran !setup, the bot should've created a role called "whitelist"
+4 - give the role "whitelist" to anyone you want to whitelist to the bots commands.
+
+
+@ Q/A
+
+
+Q - why do i have to whitelist people to use the bot commands?
+A - so that the chats arent being spammed by random people, this bot is meant to be whitelist only.
+
+Q - why arent the commands working for me?
+A - you either arent whitelisted ( need whitelist role ), bot is updating, or bot is rate limited.
+
+Q - whats the support server?
+A - https://discord.com/invite/brooklyn
+
+Q - how can i suggest commands to be added to the bot?
+A - join https://discord.com/invite/brooklyn and then dm the owner ( <@700486551221698681> )
+
+Q - what are all the commands?
+A - run !cmds in chat.
+
+
+@ Commands
+
+
+!pack <user>
+  chat packs users
+
+!picpack <user>
+  picture packs users
+
+!duckcheck <user> <number>
+  duck check users
+
+!stop
+  stops messages / counting
+
+!setup
+  creates 'whitelist' role
+
+
+@ 
