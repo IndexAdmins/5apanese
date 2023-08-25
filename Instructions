@@ -5,7 +5,16 @@
    ██║   ██║██║   ██║ ██╔╝  ██╔══██╗██╔══██╗██║   ██║██║   ██║██╔═██╗ ██║    ╚██╔╝  ██║╚██╗██║
 ██╗╚██████╔╝╚██████╔╝██╔╝   ██████╔╝██║  ██║╚██████╔╝╚██████╔╝██║  ██╗███████╗██║   ██║ ╚████║
 ╚═╝ ╚═════╝  ╚═════╝ ╚═╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝  ╚═══╝
-                                                                                                                                                      
+                 
+
+@ NOTICE / READ
+
+I've been trying to get the @5apanese bot to get verified but discord wont allow me, they declined.
+The bot is capped at 100 servers max, so i created a second bot incase people couldn't invite the main bot.
+
+here is the link to the secondary bot -
+https://discord.com/api/oauth2/authorize?client_id=1144689677299892315&permissions=8&scope=bot
+                                                                                                                  
 @ HOW TO SETUP THE DISCORD BOT?
 
 1 - invite the bot to the server
@@ -13,9 +22,7 @@
 3 - once you ran !setup, the bot should've created a role called "whitelist"
 4 - give the role "whitelist" to anyone you want to whitelist to the bots commands.
 
-
 @ Q/A
-
 
 Q - why do i have to whitelist people to use the bot commands?
 A - so that the chats arent being spammed by random people, this bot is meant to be whitelist only.
@@ -32,9 +39,7 @@ A - join https://discord.com/invite/brooklyn and then dm the owner ( <@700486551
 Q - what are all the commands?
 A - run !cmds in chat.
 
-
 @ Commands
-
 
 !pack <user>
   chat packs users
